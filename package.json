@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinhnhan123/nodejs-start.git"
+  },
+  "author": "nhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinhnhan123/nodejs-start/issues"
+  },
+  "homepage": "https://github.com/chinhnhan123/nodejs-start#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
